@@ -5,7 +5,7 @@ Theaterstück des c-atre collectivdrama nach einer Kurzgeschichte von Cory Docto
 
 „When Sysadmins Ruled the Earth“ ist eine postapokalyptische Science Fiction-Kurzgeschichte von Cory Doctorow. Sie wurde in der Kurzgeschichten- und Novellensammlung „Overclocked: Stories of the Future Present“ (Thunder’s Mouth Press, ISBN 1-56025-981-7) 2007 veröffentlicht.
 
-[CC BY NC SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5)
+[CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5)
 
 Hier das Orginal zum Download: [http://craphound.com/overclocked/download/](http://craphound.com/overclocked/download/)
 
