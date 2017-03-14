@@ -9,12 +9,12 @@ Theaterstück des c-atre collectivdrama nach einer Kurzgeschichte von Cory Docto
 
 Hier das Orginal zum Download: [http://craphound.com/overclocked/download/](http://craphound.com/overclocked/download/)
 
-Die hier veröffentlichte Version wurde vom c-atre collectivdrama ins deutsche übersetzt und als Bühnenstück umgearbeitet. 
+Die hier veröffentlichte Version wurde vom c-atre collectivdrama ins Deutsche übersetzt und als Bühnenstück umgearbeitet. 
 
 ## Dokumente erstellen
 Zum Erstellen der auf [unserer Webseite](https://c-atre.de/produktionen/when-sysadmins-rule-the-earth/data/) Dokumente verwenden wir [Pandoc](http://johnmacfarlane.net/pandoc/) und das Tool `ebook-convert` des E-Book-Managers [Calibre](http://calibre-ebook.com/) (zum erstellen von MOBI- aus EPUB-Datein). Beide Programme sind für alle gängigen Betriebssysteme verfügbar.
 
-Für Menschen die mit dem Build-Tool `make` vertraut sind stellen wir eine Makefile bereit. Damit könnt ihr den Text umwandeln in
+Für Menschen, die mit dem Build-Tool `make` vertraut sind, stellen wir eine Makefile bereit. Damit könnt ihr den Text umwandeln in
 
 * eine **HTML-Webseite**,
 
@@ -34,7 +34,7 @@ make epub
 make mobi
 ```
 
-* ein **PDF-Dokument** (hierzu wird [LibreOffice](https://de.libreoffice.org/) benötigt).
+* ein **PDF-Dokument**.
 
 ```bash
 make pdf
