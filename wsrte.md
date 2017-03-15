@@ -991,7 +991,7 @@ Szene 15 – *Spam*
 
 vor dem Serverraum
 
-*FELIX & QUEEN KONG CHAT*
+*FELIX & QUEENKONG CHAT*
 
 **\>\ QueenKong**\ \ `Die Hälfte meines Teams ist heute morgen
 abgehauen.`
@@ -1141,7 +1141,7 @@ Szene 17 – *Abschied*
 
 *Felix, QueenKong (IRC), Will, Van*
 
-*(FELIX & QUEEN KONG chatten über Abschied)*
+*(FELIX & QUEENKONG chatten über Abschied)*
 
 **\>\ Felix**\ \ `Wir hauen ab, Kong. Sprit ist sowieso fast alle.`
 
